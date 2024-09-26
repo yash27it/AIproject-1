@@ -34,4 +34,5 @@ Integration with Smart Cities: Collaborate with municipalities to integrate our 
 Prediction of Traffic Patterns: With enough data, predict future traffic patterns to better prepare for congestion.
 Emergency Vehicle Priority: Detect emergency vehicles and alter traffic lights to give them a clear path.
 
-https://github.com/riju951/AI-Traffic-System/blob/main/README.md#presentation
+![Uploading image.png…]()
+
